@@ -1,0 +1,45 @@
+.label{
+    width: 30% !important;
+    text-align: right;
+}
+.field{
+    width: 60%;
+}
+.label label{
+    color: #454545;
+    font-size: 12px;
+}
+.vp-sc-dialog{
+    padding: 35px 20px 20px !important;
+}
+.vp-sc-menu{
+    width: 200px !important;
+}
+.reveal-modal.xlarge{
+    width: 1000px !important;
+    margin-left: -500px !important;
+}
+.vkrcp_image{
+    overflow: hidden;
+}
+.vkrcp_style_1 img, .vkrcp_style_2 img, .vkrcp_style_3 img{
+    -moz-transition:all 0.6s ease;
+    -webkit-transition:all 0.6s ease;
+    -ms-transition:all 0.6s ease;
+    -o-transition:all 0.6s ease;
+    transition:all 0.6s ease;
+}
+.vkrcp_style_1:hover img, .vkrcp_style_2:hover img, .vkrcp_style_3:hover img{
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+.vkrcp_style_2:hover img{
+    border-radius: 50%;
+}
+.vkrcp_style_3 img{
+    border-radius: 50%;
+}
+
